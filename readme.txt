@@ -6,3 +6,4 @@ from maTing
 create a new branch is simple and quickly.
 not fast forward.
 add issue-01 bugs.
+add bugs.
